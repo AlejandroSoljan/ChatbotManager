@@ -15,7 +15,7 @@ wa.create({
   hostNotificationLang: 'PT_BR',
   logConsole: false,
   popup: true,
-  //executablePath: 'C://Program Files//Google//Chrome//Application//chrome.exe',
+  executablePath: 'C://Program Files//Google//Chrome//Application//chrome.exe',
   qrTimeout: 0, //0 means it will wait forever for you to scan the qr code
 }).then(client => start(client));
 
