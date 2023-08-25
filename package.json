@@ -30,8 +30,7 @@
     "qrcode": "^1.5.3",
     "socket.io": "2.3.0",
     "utf8": "^3.0.0",
-    "whatsapp-web.js": "^1.22.2-alfa.0",
-    "AlejandroSoljan/ChatbotManager": "^1.03"
+    "whatsapp-web.js": "^1.22.2-alfa.0"
    
   },
   "devDependencies": {
